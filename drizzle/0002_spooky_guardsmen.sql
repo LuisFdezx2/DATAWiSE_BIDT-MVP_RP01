@@ -1,0 +1,1 @@
+ALTER TABLE `ifc_models` ADD `statistics` text;
